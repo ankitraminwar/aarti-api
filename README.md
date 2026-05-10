@@ -68,7 +68,7 @@ Each file in `collections/` contains one top-level array (`aartis`, `stotras`, `
 
 - **id**: Unique UUID v4 identifier for the entry
 - **slug**: URL-friendly identifier
-- **category**: Deity or theme category (Ganpati, Hanuman, Ram, Vitthal, Datt, Shiv, Devi, Vishnu, Prayer, etc.)
+- **category**: Deity or theme category (Ganpati, Hanuman, Ram, Vitthal, Datt, Mahadev, Devi, Vishnu, Prayer, etc.)
 - **type**: Content type - aarti, stotra, chalisa, shlok, prarthana, mantra, stuti, etc.
 - **language**: Human-readable language name (Sanskrit, Marathi, Hindi)
 - **script**: Writing script (standardized to "Devanagari")
@@ -92,7 +92,7 @@ The collection contains **37 devotional entries** organized by deity and theme:
 - **Ram**: Ram Raksha Stotra (Sanskrit, 39 verses)
 - **Vitthal**: 3 Aartis dedicated to Pandharpur's Vitthal
 - **Datt**: Aarti by Sant Eknath
-- **Shiv**: Shankar Aarti
+- **Mahadev**: Shankar Aarti
 - **Devi**: Durga Aarti, Santoshi Mata Aarti, Laxmi Aarti, Saraswati Vandana
 - **Prayer/General**: Pasaydan (Universal Prayer), Karpura Aarti, Common Slokas Collection, Ghalin Lotangan
 - **Vishnu**: Jai Jagdish Hare

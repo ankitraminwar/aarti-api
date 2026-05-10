@@ -24,15 +24,18 @@
       "translations": {
         "hi": {
           "title": "मारुति स्तोत्र",
-          "type": "स्तुति"
+          "type": "स्तुति",
+          "category": "हनुमान"
         },
         "en": {
           "title": "Maruti Stotra - Bhimrupi Maharudra",
-          "type": "Stuti"
+          "type": "Stuti",
+          "category": "Hanuman"
         },
         "mr": {
           "title": "मारुती स्तोत्र",
-          "type": "स्तुती"
+          "type": "स्तुती",
+          "category": "हनुमान"
         }
       },
       "verses": [
@@ -198,15 +201,18 @@
       "translations": {
         "hi": {
           "title": "श्री हनुमान स्तुति",
-          "type": "स्तुति"
+          "type": "स्तुति",
+          "category": "हनुमान"
         },
         "en": {
           "title": "Shri Hanuman Stuti",
-          "type": "Stuti"
+          "type": "Stuti",
+          "category": "Hanuman"
         },
         "mr": {
           "title": "श्री हनुमान स्तुती",
-          "type": "स्तुती"
+          "type": "स्तुती",
+          "category": "हनुमान"
         }
       },
       "verses": [
@@ -295,15 +301,18 @@
       "translations": {
         "hi": {
           "title": "श्री राम स्तुति",
-          "type": "स्तुति"
+          "type": "स्तुति",
+          "category": "श्री राम"
         },
         "en": {
           "title": "Shri Ram Stuti",
-          "type": "Stuti"
+          "type": "Stuti",
+          "category": "Shri Ram"
         },
         "mr": {
           "title": "श्री राम स्तुति",
-          "type": "स्तुती"
+          "type": "स्तुती",
+          "category": "श्री राम"
         }
       },
       "verses": [

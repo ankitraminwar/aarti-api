@@ -25,15 +25,18 @@
       "translations": {
         "hi": {
           "title": "श्री हनुमान चालीसा",
-          "type": "चालीसा"
+          "type": "चालीसा",
+          "category": "हनुमान"
         },
         "en": {
           "title": "Shri Hanuman Chalisa",
-          "type": "Chalisa"
+          "type": "Chalisa",
+          "category": "Hanuman"
         },
         "mr": {
           "title": "श्री हनुमान चाळीसा",
-          "type": "चाळीसा"
+          "type": "चाळीसा",
+          "category": "हनुमान"
         }
       },
       "verses": [

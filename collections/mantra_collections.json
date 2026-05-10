@@ -22,15 +22,18 @@
       "translations": {
         "hi": {
           "title": "वक्रतुण्ड महाकाय",
-          "type": "मंत्र"
+          "type": "मंत्र",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Vakratunda Mahakaya Mantra",
-          "type": "Mantra"
+          "type": "Mantra",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "वक्रतुण्ड महाकाय",
-          "type": "मंत्र"
+          "type": "मंत्र",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -69,15 +72,18 @@
       "translations": {
         "hi": {
           "title": "सरस्वती वंदना",
-          "type": "मंत्र"
+          "type": "मंत्र",
+          "category": "सरस्वती"
         },
         "en": {
           "title": "Saraswati Vandana",
-          "type": "Mantra"
+          "type": "Mantra",
+          "category": "Saraswati"
         },
         "mr": {
           "title": "सरस्वती वंदना",
-          "type": "मंत्र"
+          "type": "मंत्र",
+          "category": "सरस्वती"
         }
       },
       "verses": [

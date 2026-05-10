@@ -20,15 +20,18 @@
       "translations": {
         "hi": {
           "title": "श्री गणेशाय नमः",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Prayer to Shri Ganesha",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "श्री गणेशाय नमः",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -65,15 +68,18 @@
       "translations": {
         "hi": {
           "title": "सुखकर्ता दुःखहर्ता",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Sukhkarta Dukhharta",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "सुखकर्ता दुःखहर्ता",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -136,15 +142,18 @@
       "translations": {
         "hi": {
           "title": "श्री गणेश आरती - नाना परिमळ दूर्वा शेंदूर शमीपत्रे",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Shri Ganesh Aarti - Nana Parimal Durva Shendur Shamipatre",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "श्री गणेश आरती - नाना परिमळ दूर्वा शेंदूर शमीपत्रे",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -208,15 +217,18 @@
       "translations": {
         "hi": {
           "title": "श्री गणेश आरती - शेंदुर लाल चढायो",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Shri Ganesh Aarti - Shendur Lal Chadhayo",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "श्री गणेश आरती - शेंदुर लाल चढायो",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -280,15 +292,18 @@
       "translations": {
         "hi": {
           "title": "श्री गणेश आरती - कपोल झरती मदें शुण्डा बहु साजे",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Shri Ganesh Aarti - Kapol Zharti Maden Shunda Bahu Saje",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "श्री गणेश आरती - कपोल झरती मदें शुण्डा बहु साजे",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -352,15 +367,18 @@
       "translations": {
         "hi": {
           "title": "श्री गणेश आरती - जय वक्रतुंडा सिंदूरमंडित विशाल सरळ भुजदंडा प्रसन्नभाळा",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Shri Ganesh Aarti - Jai Vakratunda Sindoor Mandit Vishal Saral Bhujdanda Prasanna Bhala",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "श्री गणेश आरती - जय वक्रतुंडा सिंदूरमंडित विशाल सरळ भुजदंडा प्रसन्नभाळा",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -425,15 +443,18 @@
       "translations": {
         "hi": {
           "title": "श्री हनुमान आरती - सत्राणे उड्डाणे हुंकार वदनी",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "हनुमान"
         },
         "en": {
           "title": "Shri Hanuman Aarti - Satrane Uddane Humkar Vadani",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Hanuman"
         },
         "mr": {
           "title": "श्री हनुमान आरती - सत्राणे उड्डाणे हुंकार वदनी",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "हनुमान"
         }
       },
       "verses": [
@@ -489,15 +510,18 @@
       "translations": {
         "hi": {
           "title": "श्री दत्त आरती",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "दत्त"
         },
         "en": {
           "title": "Shri Datt Aarti",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Datt"
         },
         "mr": {
           "title": "श्री दत्त आरती",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "दत्त"
         }
       },
       "verses": [
@@ -569,15 +593,18 @@
       "translations": {
         "hi": {
           "title": "श्री विठ्ठल आरती १ - युगे अठ्ठावीस विटेवरी",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "विठ्ठल"
         },
         "en": {
           "title": "Shri Vitthal Aarti 1 - Yuge Atthaavis Vitevari",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Vitthal"
         },
         "mr": {
           "title": "श्री विठ्ठल आरती १ - युगे अठ्ठावीस विटेवरी",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "विठ्ठल"
         }
       },
       "verses": [
@@ -663,15 +690,18 @@
       "translations": {
         "hi": {
           "title": "श्री विठ्ठल आरती - येई हो विठ्ठले माझे माऊली ये",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "विठ्ठल"
         },
         "en": {
           "title": "Shri Vitthal Aarti - Yei Ho Vitthale Maze Mauli Ye",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Vitthal"
         },
         "mr": {
           "title": "श्री विठ्ठल आरती - येई हो विठ्ठले माझे माऊली ये",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "विठ्ठल"
         }
       },
       "verses": [
@@ -730,15 +760,18 @@
       "translations": {
         "hi": {
           "title": "श्री विठ्ठल आरती - ओवाळू ग माये विठ्ठल",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "विठ्ठल"
         },
         "en": {
           "title": "Shri Vitthal Aarti - Ovaalu Ga Maaye Vitthal",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Vitthal"
         },
         "mr": {
           "title": "श्री विठ्ठल आरती - ओवाळू ग माये विठ्ठल",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "विठ्ठल"
         }
       },
       "verses": [
@@ -794,7 +827,7 @@
     {
       "id": "30f4b367-e279-4a09-84e8-5e6634448f1f",
       "slug": "lavthavati-vikrala",
-      "category": "Shiv",
+      "category": "Mahadev",
       "type": "aarti",
       "language": "Marathi",
       "script": "Devanagari",
@@ -813,15 +846,18 @@
       "translations": {
         "hi": {
           "title": "श्री शंकर आरती - लवथवती विक्राळा",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "शिव"
         },
         "en": {
           "title": "Shri Shankar Aarti - Lavthavati Vikrala",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Mahadev"
         },
         "mr": {
           "title": "श्री शंकर आरती - लवथवती विक्राळा",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "शिव"
         }
       },
       "verses": [
@@ -893,15 +929,18 @@
       "translations": {
         "hi": {
           "title": "दुर्गा आरती - दुर्गे दुर्घट भारी तुजवीण संसारी",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "देवी"
         },
         "en": {
           "title": "Durga Aarti - Durge Durghat Bhari Tujvin Sansari",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Devi"
         },
         "mr": {
           "title": "दुर्गा आरती - दुर्गे दुर्घट भारी तुजवीण संसारी",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "देवी"
         }
       },
       "verses": [
@@ -966,15 +1005,18 @@
       "translations": {
         "hi": {
           "title": "श्री संतोषी माता आरती - जय देवी श्री देवी संतोषी माते",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "देवी"
         },
         "en": {
           "title": "Shri Santoshi Mata Aarti - Jai Devi Shri Devi Santoshi Mate",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Devi"
         },
         "mr": {
           "title": "श्रीसंतोषीमातेची आरती - जय देवी श्री देवी संतोषी माते",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "देवी"
         }
       },
       "verses": [
@@ -1041,15 +1083,18 @@
       "translations": {
         "hi": {
           "title": "श्री लक्ष्मी आरती - ॐ जय लक्ष्मी माता",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "देवी"
         },
         "en": {
           "title": "Shri Laxmi Aarti - Om Jai Laxmi Mata",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Devi"
         },
         "mr": {
           "title": "श्री लक्ष्मी आरती - ॐ जय लक्ष्मी माता",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "देवी"
         }
       },
       "verses": [
@@ -1150,15 +1195,18 @@
       "translations": {
         "hi": {
           "title": "कर्पूरारती - कर्पूरगौरा",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "प्रार्थना"
         },
         "en": {
           "title": "Karpura Aarti - Karpuragaura",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Prayer"
         },
         "mr": {
           "title": "कर्पूरारती - कर्पूरगौर",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "प्रार्थना"
         }
       },
       "verses": [
@@ -1204,15 +1252,18 @@
       "translations": {
         "hi": {
           "title": "कर्पूरगौरं करुणावतारम्",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "प्रार्थना"
         },
         "en": {
           "title": "Karpuragauram Karunavataram",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Prayer"
         },
         "mr": {
           "title": "कर्पूरगौरं करुणावतारम्",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "प्रार्थना"
         }
       },
       "verses": [
@@ -1296,15 +1347,18 @@
       "translations": {
         "hi": {
           "title": "घालिन लोटांगण",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "प्रार्थना"
         },
         "en": {
           "title": "Ghalin Lotangan",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Prayer"
         },
         "mr": {
           "title": "घालिन लोटांगण",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "प्रार्थना"
         }
       },
       "verses": [
@@ -1383,15 +1437,18 @@
       "translations": {
         "hi": {
           "title": "ॐ जय जगदीश हरे",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री विष्णु"
         },
         "en": {
           "title": "Om Jai Jagdish Hare - Vishnu Aarti",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Shri Vishnu"
         },
         "mr": {
           "title": "ॐ जय जगदीश हरे",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री विष्णु"
         }
       },
       "verses": [
@@ -1492,15 +1549,18 @@
       "translations": {
         "hi": {
           "title": "हनुमान आरती",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "हनुमान"
         },
         "en": {
           "title": "Hanuman Aarti",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Hanuman"
         },
         "mr": {
           "title": "हनुमान आरती",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "हनुमान"
         }
       },
       "verses": [
@@ -1655,15 +1715,18 @@
       "translations": {
         "hi": {
           "title": "श्री गणेशजी की आरती",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Ganesh Aarti",
-          "type": "Aarti"
+          "type": "Aarti",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "श्री गणेशजी की आरती",
-          "type": "आरती"
+          "type": "आरती",
+          "category": "श्री गणेश"
         }
       },
       "verses": [

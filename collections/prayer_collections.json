@@ -22,15 +22,18 @@
       "translations": {
         "hi": {
           "title": "पसायदान - सार्वभौमिक प्रार्थना",
-          "type": "प्रार्थना"
+          "type": "प्रार्थना",
+          "category": "प्रार्थना"
         },
         "en": {
           "title": "Pasaydan - Universal Prayer",
-          "type": "Prayer"
+          "type": "Prayer",
+          "category": "Prayer"
         },
         "mr": {
           "title": "पसायदान - सार्वभौमिक प्रार्थना",
-          "type": "प्रार्थना"
+          "type": "प्रार्थना",
+          "category": "प्रार्थना"
         }
       },
       "verses": [

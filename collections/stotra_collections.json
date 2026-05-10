@@ -22,15 +22,18 @@
       "translations": {
         "hi": {
           "title": "श्रीरामरक्षा स्तोत्र",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "श्री राम"
         },
         "en": {
           "title": "Shri Ram Raksha Stotra",
-          "type": "Stotra"
+          "type": "Stotra",
+          "category": "Shri Ram"
         },
         "mr": {
           "title": "श्रीरामरक्षास्तोत्र",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "श्री राम"
         }
       },
       "verses": [
@@ -405,15 +408,18 @@
       "translations": {
         "hi": {
           "title": "श्री गणपति अथर्वशीर्ष",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Ganapati Atharvashirsha",
-          "type": "Stotra"
+          "type": "Stotra",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "श्री गणपती अथर्वशीर्ष",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -647,15 +653,18 @@
       "translations": {
         "hi": {
           "title": "श्री गणेश पंचरत्न स्तोत्र",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Ganesha Pancharatna Stotra",
-          "type": "Stotra"
+          "type": "Stotra",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "श्री गणेश पंचरत्न स्तोत्र",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -731,7 +740,7 @@
     {
       "id": "aaaee110-62ac-4d54-85b7-018e36246af4",
       "slug": "shiv-panchakshar-stotram",
-      "category": "Shiv",
+      "category": "Mahadev",
       "type": "stotra",
       "language": "Sanskrit",
       "script": "Devanagari",
@@ -751,15 +760,18 @@
       "translations": {
         "hi": {
           "title": "शिव पंचाक्षर स्तोत्र मंत्र",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "शिव"
         },
         "en": {
-          "title": "Shiv Panchakshar Stotram",
-          "type": "Stotra"
+          "title": "Mahadev Panchakshar Stotram",
+          "type": "Stotra",
+          "category": "Mahadev"
         },
         "mr": {
           "title": "शिव पंचाक्षर स्तोत्र मंत्र",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "शिव"
         }
       },
       "verses": [
@@ -846,15 +858,18 @@
       "translations": {
         "hi": {
           "title": "श्री व्यंकटेश स्तोत्र",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "श्री विष्णु"
         },
         "en": {
           "title": "Shri Venkatesh Stotram",
-          "type": "Stotra"
+          "type": "Stotra",
+          "category": "Shri Vishnu"
         },
         "mr": {
           "title": "श्री व्यंकटेश स्तोत्र",
-          "type": "स्तोत्र"
+          "type": "स्तोत्र",
+          "category": "श्री विष्णु"
         }
       },
       "verses": [

@@ -22,15 +22,18 @@
       "translations": {
         "hi": {
           "title": "गणपति श्लोक एवं मंत्र पुष्पांजली",
-          "type": "अष्टक"
+          "type": "अष्टक",
+          "category": "श्री गणेश"
         },
         "en": {
           "title": "Ganpati Shloka & Mantra Pushpanjali",
-          "type": "Ashtakam"
+          "type": "Ashtakam",
+          "category": "Shri Ganesh"
         },
         "mr": {
           "title": "गणपति श्लोक",
-          "type": "अष्टक"
+          "type": "अष्टक",
+          "category": "श्री गणेश"
         }
       },
       "verses": [
@@ -86,15 +89,18 @@
       "translations": {
         "hi": {
           "title": "श्री पांडुरंग अष्टकम्",
-          "type": "अष्टक"
+          "type": "अष्टक",
+          "category": "विठ्ठल"
         },
         "en": {
           "title": "Pandurang Ashtakam",
-          "type": "Ashtakam"
+          "type": "Ashtakam",
+          "category": "Vitthal"
         },
         "mr": {
           "title": "श्री पांडुरंग अष्टकम्",
-          "type": "अष्टक"
+          "type": "अष्टक",
+          "category": "विठ्ठल"
         }
       },
       "verses": [
@@ -219,15 +225,18 @@
       "translations": {
         "hi": {
           "title": "श्री कृष्णाष्टकम्",
-          "type": "अष्टक"
+          "type": "अष्टक",
+          "category": "श्री कृष्ण"
         },
         "en": {
           "title": "Krishna Ashtakam - Bhaje Vrajaika Mandanam",
-          "type": "Ashtakam"
+          "type": "Ashtakam",
+          "category": "Shri Krishna"
         },
         "mr": {
           "title": "श्री कृष्णाष्टकम्",
-          "type": "अष्टक"
+          "type": "अष्टक",
+          "category": "श्री कृष्ण"
         }
       },
       "verses": [
@@ -353,15 +362,18 @@
       "translations": {
         "hi": {
           "title": "श्री महालक्ष्मी अष्टकम्",
-          "type": "अष्टक"
+          "type": "अष्टक",
+          "category": "श्री लक्ष्मी"
         },
         "en": {
           "title": "Mahalakshmi Ashtakam",
-          "type": "Ashtakam"
+          "type": "Ashtakam",
+          "category": "Shri Lakshmi"
         },
         "mr": {
           "title": "श्री महालक्ष्मी अष्टकम्",
-          "type": "अष्टक"
+          "type": "अष्टक",
+          "category": "श्री लक्ष्मी"
         }
       },
       "verses": [
