@@ -12,12 +12,7 @@
       "author": "बुधकौशिक ऋषि",
       "order": 12,
       "isPopular": true,
-      "tags": [
-        "ram",
-        "stotra",
-        "ram-raksha",
-        "Sanskrit"
-      ],
+      "tags": ["ram", "stotra", "ram-raksha", "Sanskrit"],
       "searchableText": "रामरक्षा स्तोत्र श्रीरामरक्षास्तोत्र रामचंद्र सीताराम",
       "translations": {
         "hi": {
@@ -398,12 +393,7 @@
       "author": "अथर्ववेद",
       "order": 13,
       "isPopular": true,
-      "tags": [
-        "ganesh",
-        "atharvashirsha",
-        "stotra",
-        "upanishad"
-      ],
+      "tags": ["ganesh", "atharvashirsha", "stotra", "upanishad"],
       "searchableText": "गणपति अथर्वशीर्ष ॐ नमस्ते गणपतये एकदंताय वक्रतुण्डाय",
       "translations": {
         "hi": {
@@ -643,12 +633,7 @@
       "author": "आदि शंकराचार्य",
       "order": 36,
       "isPopular": true,
-      "tags": [
-        "ganesh",
-        "stotra",
-        "pancharatna",
-        "shankaracharya"
-      ],
+      "tags": ["ganesh", "stotra", "pancharatna", "shankaracharya"],
       "searchableText": "गणेश पंचरत्न स्तोत्र मुदा करात्त मोदकं एकदंत गणेश",
       "translations": {
         "hi": {
@@ -749,19 +734,13 @@
       "author": "traditional",
       "order": 35,
       "isPopular": true,
-      "tags": [
-        "shiv",
-        "stotram",
-        "panchakshar",
-        "mahadev",
-        "prayer"
-      ],
+      "tags": ["stotram", "panchakshar", "mahadev", "prayer"],
       "searchableText": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय नमः शिवाय पंचाक्षर स्तोत्र शिव",
       "translations": {
         "hi": {
           "title": "शिव पंचाक्षर स्तोत्र मंत्र",
           "type": "स्तोत्र",
-          "category": "शिव"
+          "category": "महादेव"
         },
         "en": {
           "title": "Mahadev Panchakshar Stotram",
@@ -771,7 +750,7 @@
         "mr": {
           "title": "शिव पंचाक्षर स्तोत्र मंत्र",
           "type": "स्तोत्र",
-          "category": "शिव"
+          "category": "महादेव"
         }
       },
       "verses": [
@@ -847,13 +826,7 @@
       "author": "Traditional",
       "order": 37,
       "isPopular": true,
-      "tags": [
-        "venkatesh",
-        "vishnu",
-        "stotram",
-        "marathi",
-        "prayer"
-      ],
+      "tags": ["venkatesh", "vishnu", "stotram", "marathi", "prayer"],
       "searchableText": "श्री व्यंकटेश स्तोत्र ॐ नमो जी हेरंबा सकळादि तू प्रारंभा जयजयाजी व्यंकटरमणा दयासागरा परिपूर्णा लक्ष्मीरमणा श्रीव्यंकटेशा वासुदेवा",
       "translations": {
         "hi": {

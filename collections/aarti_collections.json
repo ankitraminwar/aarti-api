@@ -837,7 +837,7 @@
       "order": 23,
       "isPopular": true,
       "tags": [
-        "shiv",
+        "mahadev",
         "shankar",
         "samarth-ramdas",
         "popular"
@@ -847,7 +847,7 @@
         "hi": {
           "title": "श्री शंकर आरती - लवथवती विक्राळा",
           "type": "आरती",
-          "category": "शिव"
+          "category": "महादेव"
         },
         "en": {
           "title": "Shri Shankar Aarti - Lavthavati Vikrala",
@@ -857,7 +857,7 @@
         "mr": {
           "title": "श्री शंकर आरती - लवथवती विक्राळा",
           "type": "आरती",
-          "category": "शिव"
+          "category": "महादेव"
         }
       },
       "verses": [
@@ -1244,7 +1244,7 @@
         "shloka",
         "daily",
         "prayer",
-        "shiv",
+        "mahadev",
         "vishnu",
         "krishna"
       ],
