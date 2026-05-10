@@ -4,7 +4,7 @@
       "id": "d9c657ff-a574-4266-9fee-01fccd0c01cc",
       "slug": "ram-raksha-stotra",
       "category": "Ram",
-      "type": "stotra",
+      "type": "Stotra",
       "language": "Sanskrit",
       "script": "Devanagari",
       "title": "श्रीरामरक्षास्तोत्र",
@@ -12,7 +12,12 @@
       "author": "बुधकौशिक ऋषि",
       "order": 12,
       "isPopular": true,
-      "tags": ["ram", "stotra", "ram-raksha", "Sanskrit"],
+      "tags": [
+        "ram",
+        "stotra",
+        "ram-raksha",
+        "Sanskrit"
+      ],
       "searchableText": "रामरक्षा स्तोत्र श्रीरामरक्षास्तोत्र रामचंद्र सीताराम",
       "translations": {
         "hi": {
@@ -385,7 +390,7 @@
       "id": "91823666-9d20-4c1c-9825-a7bf61292d51",
       "slug": "ganapati-atharvashirsha",
       "category": "Shri Ganesh",
-      "type": "stotra",
+      "type": "Stotra",
       "language": "Sanskrit",
       "script": "Devanagari",
       "title": "श्री गणपति अथर्वशीर्ष",
@@ -393,7 +398,12 @@
       "author": "अथर्ववेद",
       "order": 13,
       "isPopular": true,
-      "tags": ["ganesh", "atharvashirsha", "stotra", "upanishad"],
+      "tags": [
+        "ganesh",
+        "atharvashirsha",
+        "stotra",
+        "upanishad"
+      ],
       "searchableText": "गणपति अथर्वशीर्ष ॐ नमस्ते गणपतये एकदंताय वक्रतुण्डाय",
       "translations": {
         "hi": {
@@ -625,7 +635,7 @@
       "id": "caee4571-0319-4441-ad60-fc016acc6653",
       "slug": "ganesh-pancharatna-stotra",
       "category": "Shri Ganesh",
-      "type": "stotra",
+      "type": "Stotra",
       "language": "Sanskrit",
       "script": "Devanagari",
       "title": "श्री गणेश पंचरत्न स्तोत्र",
@@ -633,7 +643,12 @@
       "author": "आदि शंकराचार्य",
       "order": 36,
       "isPopular": true,
-      "tags": ["ganesh", "stotra", "pancharatna", "shankaracharya"],
+      "tags": [
+        "ganesh",
+        "stotra",
+        "pancharatna",
+        "shankaracharya"
+      ],
       "searchableText": "गणेश पंचरत्न स्तोत्र मुदा करात्त मोदकं एकदंत गणेश",
       "translations": {
         "hi": {
@@ -726,7 +741,7 @@
       "id": "aaaee110-62ac-4d54-85b7-018e36246af4",
       "slug": "shiv-panchakshar-stotram",
       "category": "Mahadev",
-      "type": "stotra",
+      "type": "Stotra",
       "language": "Sanskrit",
       "script": "Devanagari",
       "title": "शिव पंचाक्षर स्तोत्र मंत्र",
@@ -734,7 +749,12 @@
       "author": "traditional",
       "order": 35,
       "isPopular": true,
-      "tags": ["stotram", "panchakshar", "mahadev", "prayer"],
+      "tags": [
+        "stotram",
+        "panchakshar",
+        "mahadev",
+        "prayer"
+      ],
       "searchableText": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय नमः शिवाय पंचाक्षर स्तोत्र शिव",
       "translations": {
         "hi": {
@@ -818,7 +838,7 @@
       "id": "da2fdb77-f7c6-4190-9c4e-a1a3050da653",
       "slug": "shri-venkatesh-stotram-marathi",
       "category": "Vishnu",
-      "type": "stotra",
+      "type": "Stotra",
       "language": "Marathi",
       "script": "Devanagari",
       "title": "श्री व्यंकटेश स्तोत्र",
@@ -826,7 +846,13 @@
       "author": "Traditional",
       "order": 37,
       "isPopular": true,
-      "tags": ["venkatesh", "vishnu", "stotram", "marathi", "prayer"],
+      "tags": [
+        "venkatesh",
+        "vishnu",
+        "stotram",
+        "marathi",
+        "prayer"
+      ],
       "searchableText": "श्री व्यंकटेश स्तोत्र ॐ नमो जी हेरंबा सकळादि तू प्रारंभा जयजयाजी व्यंकटरमणा दयासागरा परिपूर्णा लक्ष्मीरमणा श्रीव्यंकटेशा वासुदेवा",
       "translations": {
         "hi": {

@@ -4,6 +4,7 @@
   "description": "Hindu devotional songs and prayers JSON collection",
   "scripts": {
     "validate": "node validate-collections.js",
+    "capitalize-types": "node capitalize-types.js",
     "add-category-translations": "node add-category-translations.js",
     "fix-duplicates": "node fix-duplicates.js",
     "migrate-ids": "node migrate-ids.js",

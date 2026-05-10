@@ -7,13 +7,13 @@ const fs = require("fs");
 const path = require("path");
 
 const COLLECTIONS = [
-  { file: "aarti_collections.json", key: "aartis", type: "aarti" },
-  { file: "stotra_collections.json", key: "stotras", type: "stotra" },
-  { file: "chalisa_collections.json", key: "chalisa_collections", type: "chalisa" },
-  { file: "mantra_collections.json", key: "mantras", type: "mantra" },
-  { file: "prayer_collections.json", key: "prayer_collections", type: "prayer" },
-  { file: "ashtak_collections.json", key: "ashtaks", type: "ashtak" },
-  { file: "stuti_collection.json", key: "stuti_collections", type: "stuti" },
+  { file: "aarti_collections.json", key: "aartis", type: "Aarti" },
+  { file: "stotra_collections.json", key: "stotras", type: "Stotra" },
+  { file: "chalisa_collections.json", key: "chalisa_collections", type: "Chalisa" },
+  { file: "mantra_collections.json", key: "mantras", type: "Mantra" },
+  { file: "prayer_collections.json", key: "prayer_collections", type: "Prayer" },
+  { file: "ashtak_collections.json", key: "ashtaks", type: "Ashtak" },
+  { file: "stuti_collection.json", key: "stuti_collections", type: "Stuti" },
 ];
 
 const ROOT = path.join(__dirname, "collections");
