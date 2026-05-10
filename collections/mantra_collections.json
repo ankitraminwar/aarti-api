@@ -1,0 +1,107 @@
+{
+  "mantras": [
+    {
+      "id": "1bdf5791-9878-4b04-b959-fc27f36b25ea",
+      "slug": "vakratunda-mahakaya",
+      "category": "Shri Ganesh",
+      "type": "mantra",
+      "language": "Sanskrit",
+      "script": "Devanagari",
+      "title": "वक्रतुण्ड महाकाय",
+      "subtitle": "गणेश मंत्र",
+      "author": "traditional",
+      "order": 19,
+      "isPopular": true,
+      "tags": [
+        "ganesh",
+        "mantra",
+        "shloka",
+        "beginning"
+      ],
+      "searchableText": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ निर्विघ्नं कुरु मे देव",
+      "translations": {
+        "hi": {
+          "title": "वक्रतुण्ड महाकाय",
+          "type": "मंत्र"
+        },
+        "en": {
+          "title": "Vakratunda Mahakaya Mantra",
+          "type": "Mantra"
+        },
+        "mr": {
+          "title": "वक्रतुण्ड महाकाय",
+          "type": "मंत्र"
+        }
+      },
+      "verses": [
+        {
+          "type": "verse",
+          "number": 1,
+          "lines": [
+            "वक्रतुण्ड महाकाय,",
+            "सूर्यकोटि समप्रभ ।",
+            "निर्विघ्नं कुरु मे देव,",
+            "सर्वकार्येषु सर्वदा ॥"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e22007a-b9d3-4945-a1d7-26317ebdfafa",
+      "slug": "saraswati-vandana-ya-kundendu",
+      "category": "Saraswati",
+      "type": "mantra",
+      "language": "Sanskrit",
+      "script": "Devanagari",
+      "title": "सरस्वती वंदना",
+      "subtitle": null,
+      "author": null,
+      "order": 27,
+      "isPopular": true,
+      "tags": [
+        "saraswati",
+        "shlok",
+        "sanskrit",
+        "popular",
+        "vidyarambh"
+      ],
+      "searchableText": "सरस्वती वंदना या कुन्देन्दु तुषारहारधवला वीणावरदण्डमण्डितकरा शुक्लाम् ब्रह्मविचारसार शारदा",
+      "translations": {
+        "hi": {
+          "title": "सरस्वती वंदना",
+          "type": "मंत्र"
+        },
+        "en": {
+          "title": "Saraswati Vandana",
+          "type": "Mantra"
+        },
+        "mr": {
+          "title": "सरस्वती वंदना",
+          "type": "मंत्र"
+        }
+      },
+      "verses": [
+        {
+          "type": "shlok",
+          "number": 1,
+          "lines": [
+            "या कुन्देन्दु तुषारहारधवला या शुभ्रवस्त्रावृता ।",
+            "या वीणावरदण्डमण्डितकरा या श्वेतपद्मासना ।।",
+            "या ब्रह्माच्युत शंकरप्रभृतिभिः देवैः सदा वन्दिता ।",
+            "सा माम् पातु सरस्वती भगवती निःशेषजाड्यापहा ।।"
+          ]
+        },
+        {
+          "type": "shlok",
+          "number": 2,
+          "lines": [
+            "शुक्लाम् ब्रह्मविचारसारपरमामाद्यां जगद्व्यापिनीम् ।",
+            "वीणापुस्तकधारिणीमभयदां जाड्यांधकारापहाम् ।।",
+            "हस्ते स्फाटिकमालिकां विदधतीं पद्मासने संस्थिताम् ।",
+            "वन्दे तां परमेश्वरीं भगवतीं बुद्धिप्रदां शारदाम् ।।"
+          ]
+        }
+      ]
+    }
+  ]
+}

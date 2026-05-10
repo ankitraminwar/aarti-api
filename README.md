@@ -10,24 +10,35 @@ This project provides a structured database of Aartis, which are devotional poem
 
 ```
 aarti-api/
-├── aarti_collections.json    # Main collection of Arti data
-└── README.md                  # This file
+├── collections/
+│   ├── aarti_collections.json
+│   ├── stotra_collections.json
+│   ├── chalisa_collections.json
+│   ├── mantra_collections.json
+│   ├── prayer_collections.json
+│   ├── ashtak_collections.json
+│   └── stuti_collection.json
+├── validate-collections.js
+├── fix-duplicates.js
+├── migrate-ids.js
+├── package.json
+└── README.md
 ```
 
 ## Data Format
 
-The `aarti_collections.json` file contains a JSON object with an "aartis" array. Each entry has the following structure:
+Each file in `collections/` contains one top-level array (`aartis`, `stotras`, `chalisa_collections`, etc.). Every record follows this structure:
 
 ```json
 {
   "aartis": [
     {
-      "id": "unique_identifier",
+      "id": "uuid_v4",
       "slug": "url-friendly-slug",
       "category": "Deity or Theme",
       "type": "aarti|stotra|chalisa|shlok|prarthana|mantra|stuti",
-      "language": "ISO_language_code",
-      "script": "devanagari",
+      "language": "Sanskrit|Marathi|Hindi",
+      "script": "Devanagari",
       "title": "Aarti Title",
       "subtitle": "Optional Subtitle",
       "author": "Author Name or null",
@@ -36,9 +47,9 @@ The `aarti_collections.json` file contains a JSON object with an "aartis" array.
       "tags": ["tag1", "tag2"],
       "searchableText": "Text for semantic search",
       "translations": {
-        "hi": { "title": "Hindi Title" },
-        "en": { "title": "English Title" },
-        "mr": { "title": "Marathi Title" }
+        "hi": { "title": "Hindi Title", "type": "आरती" },
+        "en": { "title": "English Title", "type": "Aarti" },
+        "mr": { "title": "Marathi Title", "type": "आरती" }
       },
       "verses": [
         {
@@ -55,12 +66,12 @@ The `aarti_collections.json` file contains a JSON object with an "aartis" array.
 
 ### Fields Description
 
-- **id**: Unique identifier for the entry (kebab-case or underscore)
+- **id**: Unique UUID v4 identifier for the entry
 - **slug**: URL-friendly identifier
 - **category**: Deity or theme category (Ganpati, Hanuman, Ram, Vitthal, Datt, Shiv, Devi, Vishnu, Prayer, etc.)
 - **type**: Content type - aarti, stotra, chalisa, shlok, prarthana, mantra, stuti, etc.
-- **language**: ISO language code (sa=Sanskrit, mr=Marathi, hi=Hindi)
-- **script**: Writing script (typically "devanagari")
+- **language**: Human-readable language name (Sanskrit, Marathi, Hindi)
+- **script**: Writing script (standardized to "Devanagari")
 - **title**: Name of the Aarti in original script
 - **subtitle**: Optional supplementary title or transliteration
 - **author**: Author or composer (null if unknown)
@@ -68,12 +79,12 @@ The `aarti_collections.json` file contains a JSON object with an "aartis" array.
 - **isPopular**: Boolean flag for popular/frequently used entries
 - **tags**: Array of categorization tags (language, region, deity, saint name, etc.)
 - **searchableText**: Concatenated text for full-text and semantic search
-- **translations**: Object containing translations in hi (Hindi), en (English), and mr (Marathi)
+- **translations**: Object containing hi/en/mr translations for both `title` and `type`
 - **verses**: Array of verse objects with type, number, optional label, and lines
 
 ## Included Content
 
-The collection contains **29 devotional entries** organized by deity and theme:
+The collection contains **37 devotional entries** organized by deity and theme:
 
 ### Categories
 - **Ganpati**: Prayer, 5 Aartis, Shlok & Mantra with Pushpanjali
@@ -101,18 +112,18 @@ The collection contains **29 devotional entries** organized by deity and theme:
 
 ### As a Data Source
 
-The JSON file can be integrated into applications that need access to devotional content:
+The JSON files can be integrated into applications that need access to devotional content:
 
 ```javascript
 // Example: Loading Aarti data
-const data = require('./aarti_collections.json');
+const data = require('./collections/aarti_collections.json');
 const aartis = data.aartis;
 
 // Filter by category
 const ganeshAartis = aartis.filter(a => a.category === 'Ganpati');
 
 // Filter by language
-const sanskritAartis = aartis.filter(a => a.language === 'sa');
+const sanskritAartis = aartis.filter(a => a.language === 'Sanskrit');
 
 // Get popular entries
 const popularAartis = aartis.filter(a => a.isPopular === true);
@@ -140,9 +151,12 @@ Access multilingual content:
 
 ```javascript
 // Get English translation
-const aarti = aartis.find(a => a.id === 'ganesh_aarti_1');
+const aarti = aartis[0];
 const englishTitle = aarti.translations.en.title;
 const marathiTitle = aarti.translations.mr.title;
+
+// Get translated type
+const englishType = aarti.translations.en.type;
 ```
 
 ## Contributing
@@ -150,7 +164,7 @@ const marathiTitle = aarti.translations.mr.title;
 Contributions are welcome! To add new Aartis or expand existing collections:
 
 1. Maintain the JSON structure format with all required fields
-2. Use appropriate ISO language codes (sa, mr, hi, en, etc.)
+2. Use standardized language names (Sanskrit, Marathi, Hindi)
 3. Include author information when available (use `null` if unknown)
 4. Ensure multilingual translations in at least English
 5. Add meaningful tags for categorization and discovery
@@ -160,18 +174,34 @@ Contributions are welcome! To add new Aartis or expand existing collections:
 
 ### Entry Requirements
 
-- Each entry must have a unique `id`
+- Each entry must have a unique UUID v4 `id`
 - Include translations in at least English (en) and original language
 - Use Devanagari script for Sanskrit, Hindi, and Marathi entries
 - Maintain consistent verse formatting and structure
 - Add relevant tags including language, deity, and composer/saint names
+
+## Validation & Maintenance
+
+Run production checks locally:
+
+```bash
+npm install
+npm run validate
+```
+
+Maintenance utilities:
+
+```bash
+npm run fix-duplicates   # auto-fix duplicate IDs with UUID v4
+npm run migrate-ids      # one-time migration for non-UUID IDs
+```
 
 ## Metadata Standards
 
 - **order**: Sequential numbering for display ordering
 - **isPopular**: Flag commonly used/recited entries
 - **tags**: Include language, category, composer, tradition, and search keywords
-- **script**: Standardized to "devanagari" for Indian language entries
+- **script**: Standardized to "Devanagari" for Indian language entries
 
 ## License
 

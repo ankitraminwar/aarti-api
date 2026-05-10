@@ -1,0 +1,14 @@
+{
+  "name": "aarti-api",
+  "version": "1.0.0",
+  "description": "Hindu devotional songs and prayers JSON collection",
+  "scripts": {
+    "validate": "node validate-collections.js",
+    "fix-duplicates": "node fix-duplicates.js",
+    "migrate-ids": "node migrate-ids.js",
+    "check:prod": "npm run validate"
+  },
+  "dependencies": {
+    "uuid": "^11.0.0"
+  }
+}
