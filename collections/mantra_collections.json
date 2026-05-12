@@ -533,6 +533,56 @@
           ]
         }
       ]
+    },
+    {
+      "id": "9e0b99b0-9b1b-48c4-85c9-00946bec9671",
+      "slug": "gayatri-mantra",
+      "category": "Prayer",
+      "type": "Mantra",
+      "language": "Sanskrit",
+      "script": "Devanagari",
+      "title": "गायत्री मंत्र",
+      "subtitle": "ॐ भूर्भुवः स्वः",
+      "author": "traditional",
+      "order": 28,
+      "isPopular": true,
+      "tags": [
+        "gayatri",
+        "mantra",
+        "savitri",
+        "vedic",
+        "prayer"
+      ],
+      "searchableText": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् गायत्री मंत्र",
+      "translations": {
+        "hi": {
+          "title": "गायत्री मंत्र",
+          "type": "मंत्र",
+          "category": "प्रार्थना"
+        },
+        "en": {
+          "title": "Gayatri Mantra",
+          "type": "Mantra",
+          "category": "Prayer"
+        },
+        "mr": {
+          "title": "गायत्री मंत्र",
+          "type": "मंत्र",
+          "category": "प्रार्थना"
+        }
+      },
+      "verses": [
+        {
+          "type": "verse",
+          "number": 1,
+          "lines": [
+            "ॐ भूर्भुवः स्वः ।",
+            "तत्सवितुर्वरेण्यं",
+            "भर्गो देवस्य धीमहि ।",
+            "धियो यो नः प्रचोदयात् ॥"
+          ]
+        }
+      ]
     }
   ]
 }
