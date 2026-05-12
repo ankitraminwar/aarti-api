@@ -114,6 +114,18 @@ The collection contains **44 devotional entries** organized by deity and theme:
 - Searchable text fields for semantic search capability
 - Metadata including author information, order numbering, popularity flags, and categorized tags
 
+## CDN URLs
+
+Use these jsDelivr URLs to fetch collection JSON files directly:
+
+- Aarti Collection: https://cdn.jsdelivr.net/gh/ankitraminwar/aarti-api@master/collections/aarti_collections.json
+- Ashtak Collection: https://cdn.jsdelivr.net/gh/ankitraminwar/aarti-api@master/collections/ashtak_collections.json
+- Chalisa Collection: https://cdn.jsdelivr.net/gh/ankitraminwar/aarti-api@master/collections/chalisa_collections.json
+- Mantra Collection: https://cdn.jsdelivr.net/gh/ankitraminwar/aarti-api@master/collections/mantra_collections.json
+- Prayer Collection: https://cdn.jsdelivr.net/gh/ankitraminwar/aarti-api@master/collections/prayer_collections.json
+- Stotra Collection: https://cdn.jsdelivr.net/gh/ankitraminwar/aarti-api@master/collections/stotra_collections.json
+- Stuti Collection: https://cdn.jsdelivr.net/gh/ankitraminwar/aarti-api@master/collections/stuti_collection.json
+
 ## Usage
 
 ### As a Data Source
