@@ -13,6 +13,7 @@
 2. The `slug` field should be URL-friendly and unique
 3. The `order` field should reflect the display/priority order
 4. Records should not be duplicated across the collection
+5. Collection-level `type` values must match `validate-collections.js`; for example, every record in `mantra_collections.json` uses `type: "Mantra"` even when tags/title identify the content as a shloka or stotram.
 
 ### Before Adding New Records
 - Verify the `id` does not already exist in the collection
@@ -23,3 +24,4 @@
 - When updating records, preserve existing data unless explicitly changed
 - Document significant changes to the collection structure
 - Report any duplicate records found for cleanup
+- Preserve verse lyrics exactly when importing devotional text; normalize metadata only as needed for repository validation.

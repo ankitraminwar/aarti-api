@@ -84,18 +84,23 @@ Each file in `collections/` contains one top-level array (`aartis`, `stotras`, `
 
 ## Included Content
 
-The collection contains **37 devotional entries** organized by deity and theme:
+The collection contains **43 devotional entries** organized by deity and theme:
 
 ### Categories
-- **Ganpati**: Prayer, 5 Aartis, Shlok & Mantra with Pushpanjali
+- **Ganpati**: Prayer, 5 Aartis, Shlok, Stotram-style mantra entries, and Mantra with Pushpanjali
 - **Hanuman**: Aarti, Chalisa, Stotra, and Stuti
-- **Ram**: Ram Raksha Stotra (Sanskrit, 39 verses)
+- **Shri Ram**: Ram Raksha Stotra (Sanskrit, 39 verses) and Shri Ramchandra Kripalu Bhajuman
 - **Vitthal**: 3 Aartis dedicated to Pandharpur's Vitthal
 - **Datt**: Aarti by Sant Eknath
-- **Mahadev**: Shankar Aarti
+- **Mahadev/Shankara**: Shankar Aarti and Nirvana Shatakam
 - **Devi**: Durga Aarti, Santoshi Mata Aarti, Laxmi Aarti, Saraswati Vandana
 - **Prayer/General**: Pasaydan (Universal Prayer), Karpura Aarti, Common Slokas Collection, Ghalin Lotangan
-- **Vishnu**: Jai Jagdish Hare
+- **Shri Vishnu**: Jai Jagdish Hare and Shri Venkatesh Stotram
+
+### Mantra Collection Highlights
+- **Shri Ganesh**: Vakratunda Mahakaya, Sankata Nashana Ganesha Stotram, Mooshika Vahana, Ganesha Gayatri Mantra, Ganapati Stotram, and Agajanana Padmakam
+- **Shri Shankara**: Nirvana Shatakam
+- **Saraswati**: Saraswati Vandana
 
 ### Languages & Scripts
 - **Marathi** (Devanagari script): Aartis, prayers, and local devotional texts
