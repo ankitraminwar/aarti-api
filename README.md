@@ -207,6 +207,8 @@ npm install
 npm run validate
 ```
 
+The validator checks JSON parseability, collection keys, UUID v4 IDs, route-safe slugs, per-collection duplicate slugs/orders, required app metadata, translations for `hi`/`en`/`mr`, and verse line structure. Cross-collection slug reuse is reported as a warning so shared content can be reviewed without blocking builds.
+
 Maintenance utilities:
 
 ```bash
